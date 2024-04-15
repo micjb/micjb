@@ -11,4 +11,4 @@
 <h3><a href="https://www.linkedin.com/in/ingrid-barrios-v-dataing/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a> Ingrid Barrios</h3>
 <h3>Marcelo Yuba</h3>
 <p><img src = "scr/fotoEli.jpg"><p>
-<h3><a href="www.linkedin.com/in/marcelo-yuba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"><a href="https://github.com/Bethcosima"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a></h3>
+<h3><a href="www.linkedin.com/in/marcelo-yuba"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"><a href="https://github.com/marceloyuba"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a></h3>
